@@ -46,7 +46,7 @@ const HomePage = () => {
               target="_blank"
               className="mr-4 btn btn-ghost normal-case text-sm text-white dark:text-gray-300"
             />
-            <Copy email="contact@kennethsolomon.com" />
+            <Copy email="hello@kennethsolomon.com" />
           </div>
         </div>
         <div className="flex justify-center sm:col-span-5">

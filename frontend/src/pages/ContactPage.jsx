@@ -27,7 +27,7 @@ const ContactPage = () => {
       }
 
       const response = await axios.post(
-        "http://localhost:5050/api/send-email",
+        "https://hello.kennethsolomon.com/api/send-email",
         {
           name,
           email,

@@ -73,7 +73,7 @@ const Footer = () => {
       </p>
       <div className="flex justify-center mb-10">
         <HireMe className="mr-4" />
-        <Copy email="contact@kennethsolomon.com" />
+        <Copy email="hello@kennethsolomon.com" />
       </div>
       {loading ? (
         <div className="flex justify-center mb-5">
